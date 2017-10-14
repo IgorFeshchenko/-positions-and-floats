@@ -1,0 +1,416 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.clear{
+	clear: both;
+}
+.wrapper{
+	width: 1200px;
+	margin: 0 auto;
+}
+.logo{
+	float: left;
+	margin-top: 5px;
+
+}
+.logo-name{
+	font-family: 'Calibri';
+	margin-top: 18px;
+	line-height: 41px;
+	margin-left:56px;
+	float: left;
+	
+	color: #fb9c06;
+}
+.logo-name p{
+	font-family: 'Bebas'
+	margin: 0;
+	color: #6e6d6b;
+
+}
+
+.line{
+	border-color: 
+}
+.slider{
+	width: 100%;
+	height: 400px;
+	background-image: url(img/big-orange-bg.png);
+	border-bottom:3px solid #fcba50;
+	border-top:3px solid #fcba50;
+}
+.text-slider1{
+	margin-left: 221px;
+	margin-top: 130px;
+	width: 380px;
+	height: 66px;
+	color: #fb9c06;
+	background-color: rgba(0,0,0,0.6); 
+	font-family: 'Bebas';
+	font-size: 37px;
+	text-align: center;
+}
+
+.text-slider2{
+	width: 396px;
+	height: 77px;
+	margin-top: 21px;
+	margin-left: 212px;
+	background-color: rgba(212,156,6,0.6); 
+	font-family: 'Bebas';
+	font-size: 37px;
+	text-align: center;
+	line-height: 73px;
+}
+
+.header{
+	height: 130px;
+}
+
+.tables{
+	width: 1200px;
+	margin: 0 auto;
+}
+.col-4{
+	margin-top: 25px;
+	width: 300px;
+	float: left;
+}
+.col-4-1{
+	width: 290px;
+    padding: 0px 5px;
+	font-family: 'Calibri';
+	font-size: 17px;
+}
+.nav-home{
+	margin-left: 350px;
+	margin-top:20px; 
+	width: 60px;
+	height: 80px;
+	text-align: center;
+	float: left;
+
+}
+.nav-home a{
+	text-decoration: none;
+	font-size: 22px;
+	font-family: 'Calibri';
+	color: #9e9b9b;
+}
+.nav-work{
+	margin-left: 70px;
+	margin-top:20px; 
+	width: 60px;
+	height: 80px;
+	text-align: center;
+	float: left;
+}
+.nav-work a{
+	text-decoration: none;
+	font-size: 22px;
+	font-family: 'Calibri';
+	color: #9e9b9b;
+}
+.nav-blog{
+	margin-left: 70px;
+	margin-top:20px; 
+	width: 60px;
+	height: 80px;
+	text-align: center;
+	float: left;
+}
+.nav-blog a{
+	text-decoration: none;
+	font-size: 22px;
+	font-family: 'Calibri';
+	color: #9e9b9b;
+}
+.nav-blog div{
+margin-top: 4px;	
+}
+.nav-about{
+	margin-left: 70px;
+	margin-top:20px; 
+	width: 60px;
+	height: 80px;
+	text-align: center;
+	float: left;
+}
+.nav-about a{
+	text-decoration: none;
+	font-size: 22px;
+	font-family: 'Calibri';
+	color: #9e9b9b;
+}
+.nav-contact{
+	margin-left: 70px;
+	margin-top:20px; 
+	width: 80px;
+	height: 100px;
+	text-align: center;
+	float: left;
+}
+.nav-contact a {
+	
+	text-decoration: none;
+	font-size: 22px; 
+	font-family: 'Calibri';
+	color: #9e9b9b;
+}
+.nav-contact div{
+	margin-top: 7px;
+}
+.col-4-1 a{
+	text-decoration: none;
+    float: right;
+    margin-right: 16px;
+    font-family: 'Calibri';
+    font-size: 17px;
+    color: #ffac00;
+    font-style:oblique;
+}
+.col-4-1 a:hover{
+	color: gold;
+}
+.meet-hoof{
+	width: 295px;
+	float: left;
+}
+.meet-1{
+	width: 1200px;
+	margin: 0 auto;
+	margin-top: 60px;
+	padding-top: 101px;
+}
+.meet {
+	padding: 60px;
+	text-align: center;
+	text-decoration: underline;
+	font-size: 44px;
+	font-family: 'St Marie';
+	color: #ff9c00;
+
+}
+.meet1hoof {
+	padding-bottom: 30px; 
+	width: 300px;
+	text-align: center;
+	font-family: "Calibri";
+	font-size: 22px;
+	color: #6e6d6b;
+
+}
+.meet1hoof span{
+	font-family: "Calibri";
+	font-size: 22px;
+	color:#fb9c06;
+}
+.meet2hoof{
+	padding-left: 16%; 
+	padding-top:30px; 
+	width: 262px;
+	text-align: left;
+	font-family: 'Calibri';
+	font-size: 15px;
+	color: #333333;
+	font-weight: lighter;
+}
+.meet-nibs{
+	float: left;
+	width: 584px;
+}
+.meet1nibs {
+	padding-bottom: 30px; 
+	width: 584px;
+	text-align: center;
+	font-family: "Calibri";
+	font-size: 22px;
+	color: #6e6d6b;
+
+}
+.meet1nibs span{
+	font-family: "Calibri";
+	font-size: 22px;
+	color:#fb9c06;
+}
+.img-horse{
+	width: 312px;
+	height: 312px;
+}
+.img-rabbit{
+	padding-left: 25% ;
+	width: 312px;
+	height: 312px;
+}
+.meet2nibs{
+	padding-left: 34%; 
+	padding-top:30px; 
+	width: 250px;
+	text-align: left;
+	font-family: 'Calibri';
+	font-size: 15px;
+	color: #333333;
+	font-weight: lighter;
+}
+.meet-squawk{
+	float: left;
+	width: 290px;
+}
+.meet1squawk {
+	padding-bottom: 30px; 
+	width: 290px;
+	text-align: center;
+	font-family: "Calibri";
+	font-size: 22px;
+	color: #6e6d6b;
+
+}
+.meet1squawk span{
+	font-family: "Calibri";
+	font-size: 22px;
+	color:#fb9c06;
+}
+.img-squawk{
+	width: 312px;
+	height: 312px;
+}
+.meet2squawk{
+	padding-left: 12%; 
+	padding-top:30px; 
+	width: 245px;
+	text-align: left;
+	font-family: 'Calibri';
+	font-size: 15px;
+	color: #333333;
+	font-weight: lighter;
+}
+.send-msg{
+    margin-top: 80px;
+	padding-top: 80px;
+	width: 1200px;
+	margin: 0 auto;
+}
+.send-msg {
+ text-align: center;
+ font-size: 40px;
+ font-family:  'St Marie';
+ text-decoration: underline;
+ color: #ff9c00;
+ font-weight: lighter;
+}
+.name-area{
+	margin-left:  56px;
+	width: 1058px;
+	height: 35px;
+}
+.nav-home a:hover{
+	content: url(img/home2.png);
+}
+.nav-home img:hover{
+	content: url(img/home2.png);
+}
+
+.nav-about a:hover{
+	content: url(img/ab3.png);
+}
+.nav-about img:hover{
+	content: url(img/ab3.png);
+}
+.nav-work a:hover{
+	content: url(img/pen2.png);
+}
+.nav-work img:hover{
+	content: url(img/pen2.png);
+}
+.nav-blog a:hover{
+	content: url(img/blog2.png);
+}
+.nav-blog img:hover{
+	content: url(img/blog2.png);
+}
+.nav-contact a:hover{
+	content: url(img/cont2.png);
+}
+.nav-contact img:hover{
+	content: url(img/cont2.png);
+}
+.cont-name {
+margin-top:70px; 
+margin-bottom: 35px; 
+text-align: left;
+font-size: 24px;
+font-family: 'St Marie';
+color: #fb9c06;
+}
+.email{
+text-align: left;
+font-size: 24px;
+font-family: 'St Marie';
+color: #fb9c06;
+}
+.name-email{
+	box-shadow: inset 3px 1px 0px 0px #d2d0cf;
+	margin-left: 56px;
+	width: 1058px;
+	height: 35px;
+}
+.message{
+	margin-top:40px; 
+text-align: left;
+font-size: 24px;
+font-family: 'St Marie';
+color: #fb9c06;
+
+}
+.name-area{
+	box-shadow: inset 3px 1px 0px 0px #d2d0cf;
+}
+
+.area{
+	box-shadow: inset 3px 1px 0px 0px #d2d0cf;
+	margin-left: 30px;
+	width: 1058px;
+	height: 90px;
+	vertical-align: top;
+}
+.button{ 
+	margin-left: 1067px;
+	box-shadow: 0px 2px rgb(204,131,15) ;
+	margin-top:25px; 
+	width: 157px;
+	height: 38px;
+	text-align: right;
+}
+.button a{
+	font-weight: lighter;
+	color: #ffffff;
+	text-decoration: none;
+	font-size: 30px;
+	font-family: 'St Marie';
+	padding: 5px 35px ; 
+	background-color: #fb9c06;
+	margin-right: 231px;
+}
+.button a:active{
+	box-shadow: 0px 2px white;
+}
+.button a:hover{
+	background-color: gold;
+	color: black;
+}
+.footer{
+	box-shadow: 0px 3px rgb(204,131,15) ;
+	text-align: center;
+	width: 100%;
+	height:70px;
+	background-color: #fb9c06;
+	margin-top: 50px;
+	margin-bottom: 10px; 
+}
+.footer p{
+	font-family: 'St Marie';
+	color: white;
+	font-size: 33px;
+	padding-top: 20px;
+}
